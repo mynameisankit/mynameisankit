@@ -1,0 +1,229 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\begin{center}
+    {\Huge \scshape Ankit Kumar} \\ \vspace{1pt}
+    \small \raisebox{-0.1\height}\faPhone\ +91-9373078960 ~ \href{mailto:ankit.kumar19@iiitg.ac.in}{\raisebox{-0.2\height}\faEnvelope\  \underline{ankit.kumar19@iiitg.ac.in}} ~ 
+    \href{https://linkedin.com/in/mynameisankit}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/mynameisankit}}  ~
+    \href{https://github.com/mynameisankit}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/mynameisankit}}
+    \vspace{-8pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Indian Institute of Information Technology Guwahati}{Aug 2019 -- April 2023}
+      {Bachelor of Technology in Computer Science and Engineering}{Guwahati, Assam}
+  \resumeSubHeadingListEnd
+
+%------RELEVANT COURSEWORK-------
+\section{Relevant Coursework}
+    %\resumeSubHeadingListStart
+        \begin{multicols}{4}
+            \begin{itemize}[itemsep=-5pt, parsep=3pt]
+                \item\small Data Structures
+                \item Linear Algebra
+                \item Algorithms Analysis
+                \item Database Systems
+                \item Artificial Intelligence
+                \item Calculus
+                \item Systems Programming
+                \item Computer Architecture
+            \end{itemize}
+        \end{multicols}
+        \vspace*{2.0\multicolsep}
+    %\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+% \section{Experience}
+%   \resumeSubHeadingListStart
+
+%     \resumeSubheading
+%       {Lorem Ipusm}{May 2020 -- August 2020}
+%       {Software Engineer Intern}{City, State}
+%       \resumeItemListStart
+%         \resumeItem{Lorem Ipusm}
+%       \resumeItemListEnd
+    
+%   \resumeSubHeadingListEnd
+% \vspace{-16pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+        \resumeProjectHeading
+        {\textbf{Jeevan Sahyaak} $|$ \emph{Next.js, Material-UI, React.js, Express.js, React Native}}{May 2020 -- Present}
+          \resumeItemListStart
+            \resumeItem{Conceptualised and developing a centralised system to help COVID patients to contact plasma donors as well as helping the volunteers find the needy near their localities.}
+            \resumeItem{Developing a portal for relevant tweets on twitter, information and news regarding COVID and NGOs.}
+            \resumeItem{\textbf{Proposed Work:} Develop a mobile app equivalent for the same using React Native.}
+          \resumeItemListEnd 
+          \vspace{-13pt}
+      \resumeProjectHeading
+          {\textbf{Real Estate Management System} $|$ \emph{Next.js, MySQL, Material-UI, React.js, Express.js, Electron.js}}{April 2021}
+          \resumeItemListStart
+            \resumeItem{Designed and developed Entity-Relationship diagrams and SQL Tables}
+            \resumeItem{Implemented an authentication system, separate interfaces for buyers, sellers and agents and a dashboard for admins with filtering feature to get only the data they  / need.}
+            \resumeItem{Implemented a report generating feature to generate relevant charts and statistics based on successful deals a agent performs to enable admins to observe their performance.}
+            \resumeItem{Created a XAMPP server on EC2 instance of AWS and hosted MySQL to remotely work with the database.}
+            \resumeItem{\textbf{Proposed Work:} Develop an electron.js equivalent for the portal.}
+          \resumeItemListEnd
+          \vspace{-13pt}
+      \resumeProjectHeading
+          {\textbf{IIITG Technical Board Portal} $|$ \emph{React.js, React Bootstrap, Material-UI, Firebase}}{February 2021 -- Present}
+          \resumeItemListStart
+            \resumeItem{Developed the SPA's for the technical board and clubs under it using React Bootstrap and various clubs under it and all of them uses client-side data fetching strategy using the firebase firestore and firebase API.}
+            \resumeItem{Developed a Admin Dashboard using Material-UI to add / edit the content of the pages by directly interacting with the database.}
+            \resumeItem{Implemented various input forms and a Drag-and-Drop feature to add new images.}
+          \resumeItemListEnd 
+    \resumeSubHeadingListEnd
+\vspace{-15pt}
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+  \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+      \textbf{Languages}{: C, C++, JavaScript, Java, Python, BASH, HTML/CSS } \\
+      \textbf{Databases}{: MySQL/MariaDB, PostgreSQL, Firebase, MongoDB } \\
+      \textbf{Developer Tools / Platforms}{: VS Code, Git / Github, Amazon Web Services(AWS), Linux} \\
+      \textbf{Technologies/Frameworks}{: React.js, Next.js, Express.js, Material-UI, React Bootstrap} \\
+    }}
+\end{itemize}
+\vspace{-16pt}
+
+
+%-----------INVOLVEMENT---------------
+\section{Leadership / Extracurricular}
+    \resumeSubHeadingListStart
+        \resumeSubheading{Fraternity}{August 2020 -- January 2021}{Club Convener}{Avant (Programming Club)}
+            \resumeItemListStart
+                \resumeItem{Contributed algorithmic questions in the contests held on HackerRank indulging about 100+ participants each time.}
+                \resumeItem{Organized a UI/UX Competition to promote the field of Front-end Development in the institute having 20+ registrations.}
+            \resumeItemListEnd
+        \resumeSubheading{Fraternity}{August 2020 -- Present}{Member}{Google Developer Student Clubs (DSC) IIIT Guwahati}
+            \resumeItemListStart
+                \resumeItem{Conducted a workshop on Web Development where I showed how to generate a Resume/CV (HTML File and PDF File) using basics of Node.js and helped the attendees in making a File Organizer based on their type extensions having 450+ views on YouTube on the first day as part of DSC Explore Event Chain.}
+            \resumeItemListEnd
+        \resumeSubheading{Volunteer}{August 2020}{Technical Writer}{The Curriculum Vitae (Newsletter)}
+            \resumeItemListStart
+                \resumeItem{Written technical articles on the topic "The New CORONA(Contact-less, Online, Remote, well Networked and Automated) Way Of Life" giving a overview on recent technology domain surges and "How Coronavirus Accelerated the New Industrial Revolution?" discussing how the pandemic can spur new advancements and can be found on iiitg-blogs.com.}
+            \resumeItemListEnd
+        
+    \resumeSubHeadingListEnd
+
+
+\end{document}
