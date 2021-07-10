@@ -1,4 +1,7 @@
 ## नमस्ते मेरा नाम अंकित हे (Hello My Name Is Ankit) ##
+
+![https://github.com/mynameisankit](https://komarev.com/ghpvc/?username=mynameisankit)
+
 <code>
   <h1 align="center">My Skillset</h1>
   <ul>
