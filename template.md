@@ -38,6 +38,8 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 </p>
 {{/with}}
 
+------------
+
 {{#with repo_details}}
 <h3 align="center"></h3>
 <p align="center">
@@ -46,8 +48,6 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
   Last refresh: {{refresh_date}}
   <br />
 </p>
-
-------------
 
 <p align="center">
   <img alt="Stars" src="https://shields.io/badge/Stars-{{stars}}-0A66C2?style=for-the-badge"/> 
