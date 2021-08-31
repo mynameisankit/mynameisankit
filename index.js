@@ -23,7 +23,7 @@ async function generateReadMe(RAW_DATA) {
     
     const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
     data.repo_details = {
-        refresh_date: `${days[dayjs().day()]}, ${dayjs().format('DD MMMM, hh:m A')}`,
+        refresh_date: `${days[dayjs().day()]}, ${dayjs().format('D MMMM, hh:mm A')}`,
         stars: REPO_DETAILS['stargazers_count'],
         forks: REPO_DETAILS['forks'],
     }
