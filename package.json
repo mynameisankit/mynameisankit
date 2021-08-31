@@ -1,0 +1,35 @@
+{
+  "name": "mynameisankit",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynameisankit/mynameisankit.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "javascript",
+    "dynamic"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynameisankit/mynameisankit/issues"
+  },
+  "homepage": "https://github.com/mynameisankit/mynameisankit#readme",
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.6",
+    "dotenv": "^10.0.0",
+    "handlebars": "^4.7.7",
+    "lodash": "^4.17.21",
+    "puppeteer": "^10.2.0"
+  }
+}

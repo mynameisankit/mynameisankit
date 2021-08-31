@@ -1,0 +1,81 @@
+# Hello (नमस्ते) #
+
+<p align="center">
+  <img src="./src/content/images/namaste.jpg" />
+</p>
+
+{{#with PERSONAL_DETAILS}}
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        My Name Is {{NAME}} and I am from {{#if (isDifferentCity FROM CURRENT)}}{{FROM.CITY}}, {{FROM.STATE}}, {{FROM.COUNTRY}} currently living in {{/if}}{{CURRENT.CITY}}, {{CURRENT.STATE}}, {{CURRENT.COUNTRY}}. I am a fourth-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+      </p>
+    </td>
+    <td>
+      <img width="1400" height="250" src="./src/content/images/my_pic.jpg" />
+    </td>
+  </tr>
+</table>
+
+## What I am upto these days? ##
+<p align="center">
+Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=midnight-purple"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&theme=cobalt"></img>
+</p>
+
+{{/with}}
+
+{{#with SKILLS}}
+### My Skills ###
+<p align="center">
+  {{#each PROFICIENT}}
+    <img alt="{{this.SKILL_NAME}}" src="https://img.shields.io/badge/-{{this.SKILL_NAME}}-{{#if (isColorPresent this.COLOR)}}{{this.COLOR}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.LOGO}}&logoColor=white" />
+  {{/each}}
+  {{#each elementary}}
+    <img alt="{{this.SKILL_NAME}}" src="https://img.shields.io/badge/-{{this.SKILL_NAME}}-{{#if (isColorPresent this.COLOR)}}{{this.COLOR}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.LOGO}}&logoColor=white" />
+  {{/each}}
+  {{#each misc}}
+    <img alt="{{this.SKILL_NAME}}" src="https://img.shields.io/badge/-{{this.SKILL_NAME}}-{{#if (isColorPresent this.COLOR)}}{{this.COLOR}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.LOGO}}&logoColor=white" />
+  {{/each}}  
+</p>
+{{/with}}
+
+{{#with PERSONAL_DETAILS}}
+### Where to find me ###
+<p align="center">
+  {{#each SOCIAL_LINKS}}
+    <a href="{{this.URL}}">
+      <img alt="{{this.PLATFORM_NAME}} Link" src="https://img.shields.io/badge/-{{this.PLATFORM_NAME}}-{{#if (isColorPresent this.COLOR)}}{{this.COLOR}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.PLATFORM_NAME}}&logoColor=white" />
+    </a>
+  {{/each}}
+</p>
+{{/with}}
+
+## A Glance of {{PERSONAL_DETAILS.CURRENT.CITY}} ##
+<p align="center">
+  {{#each CURRENT_CITY_IMAGES}}
+  <img width="250" height="250" alt="City Image" src="{{this}}" /> 
+  {{/each}}
+</p>
+
+{{#with REPOSITORY_DETAILS}}
+<p align="center">
+  This <i>README</i> file is generated <b>every 6 hours</b>
+  </br>
+  Last refresh: {{REFRESH_DATE}}
+  <br />
+</p>
+
+<p align="center">
+  <img alt="Stars" src="https://shields.io/badge/Stars-{{STARS}}-0A66C2?style=for-the-badge"/> 
+  <img alt="Forks" src="https://shields.io/badge/Forks-{{FORKS}}-0A66C2?style=for-the-badge"/>
+</p>
+{{/with}}
+
+### How this works? ###
+This README is generated every 6 hours by my Node.js program built using [Puppeteer.js](https://github.com/puppeteer/puppeteer) and [Handlebars.js](https://handlebarsjs.com/) and run every 6 hours by Github Actions.

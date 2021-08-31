@@ -1,0 +1,191 @@
+{
+    "PERSONAL_DETAILS": {
+        "NAME": "Ankit",
+        "NATIVE_NAME": "अंकित",
+        "NATIVE_COUNTRY_NAME": "भारत",
+        "USERNAME": "mynameisankit",
+        "CURRENT": {
+            "COUNTRY": "India",
+            "STATE": "Karnataka",
+            "CITY": "Bengaluru"
+        },
+        "FROM": {
+            "COUNTRY": "India",
+            "STATE": "Maharashtra",
+            "CITY": "Pune"
+        },
+        "SOCIAL_LINKS": [
+            {
+                "PLATFORM_NAME": "facebook",
+                "URL": "https://www.facebook.com/my.name.is.ankit.Kumar/",
+                "COLOR": "1877F2"
+            },
+            {
+                "PLATFORM_NAME": "instagram",
+                "URL": "https://www.instagram.com/my.name.is.ankit/",
+                "COLOR": "E4405F"
+            },
+            {
+                "PLATFORM_NAME": "linkedin",
+                "URL": "https://www.linkedin.com/in/mynameisankit/",
+                "COLOR": "0A66C2"
+            },
+            {
+                "PLATFORM_NAMEame": "twitter",
+                "URL": "https://twitter.com/bizzare_kumar",
+                "COLOR": "1DA1F2"
+            },
+            {
+                "PLATFORM_NAME": "gmail",
+                "URL": "mailto:kumar.ankit.862001@gmail.com",
+                "COLOR": "EA4335"
+            },
+            {
+                "PLATFORM_NAME": "leetcode",
+                "URL": "https://leetcode.com/bizzareKumar/",
+                "COLOR": "FFA116"
+            }
+        ]
+    },
+    "DATE_SCHEMA": {
+        "WEEKDAY": "long",
+        "MONTH": "long",
+        "DAY": "numeric",
+        "HOUR": "numeric",
+        "MINUTE": "numeric",
+        "TIMEZONE_NAME": "short",
+        "TIMEZONE": "Asia/India"
+    },
+    "SKILLS": {
+        "PROFICIENT": [
+            {
+                "SKILL_NAME": "ReactJs",
+                "LOGO": "react",
+                "COLOR": "45b8d8"
+            },
+            {
+                "SKILL_NAME": "NextJs",
+                "LOGO": "nextdotjs"
+            },
+            {
+                "SKILL_NAME": "Webpack",
+                "LOGO": "webpack",
+                "COLOR": "8DD6F9"
+            },
+            {
+                "SKILL_NAME": "NodeJs",
+                "LOGO": "nodedotjs",
+                "COLOR": "43853d"
+            },
+            {
+                "SKILL_NAME": "JavaScript",
+                "LOGO": "javascript",
+                "COLOR": "F7DF1E"
+            },
+            {
+                "SKILL_NAME": "HTML",
+                "LOGO": "html5",
+                "COLOR": "E34F26"
+            },
+            {
+                "SKILL_NAME": "CSS",
+                "LOGO": "css3",
+                "COLOR": "1572B6"
+            },
+            {
+                "SKILL_NAME": "C",
+                "LOGO": "c",
+                "COLOR": "A8B9CC"
+            },
+            {
+                "SKILL_NAME": "C++",
+                "LOGO": "cplusplus",
+                "COLOR": "00599C"
+            },
+            {
+                "SKILL_NAME": "MySQL",
+                "LOGO": "mysql",
+                "COLOR": "4479A1"
+            },
+            {
+                "SKILL_NAME": "MaterialUI",
+                "LOGO": "materialui",
+                "COLOR": "0081CB"
+            },
+            {
+                "SKILL_NAME": "React Bootstrap",
+                "LOGO": "bootstrap",
+                "COLOR": "7952B3"
+            },
+            {
+                "SKILL_NAME": "Git",
+                "LOGO": "git",
+                "COLOR": "F05032"
+            },
+            {
+                "SKILL_NAME": "AWS",
+                "LOGO": "amazonaws",
+                "COLOR": "232F3E"
+            },
+            {
+                "SKILL_NAME": "NumPy",
+                "LOGO": "numpy",
+                "COLOR": "013243"
+            },
+            {
+                "SKILL_NAME": "Pandas",
+                "LOGO": "pandas",
+                "COLOR": "150458"
+            }
+        ],
+        "elementary": [
+            {
+                "SKILL_NAME": "MongoDB",
+                "LOGO": "mongodb",
+                "COLOR": "13aa52"
+            },
+            {
+                "SKILL_NAME": "Python",
+                "LOGO": "python",
+                "COLOR": "3776AB"
+            },
+            {
+                "SKILL_NAME": "Java",
+                "LOGO": "java",
+                "COLOR": "007396"
+            },
+            {
+                "SKILL_NAME": "Bash",
+                "LOGO": "gnubash",
+                "COLOR": "4EAA25"
+            },
+            {
+                "SKILL_NAME": "Styled Components",
+                "LOGO": "styled-components",
+                "COLOR": "db7092"
+            }
+        ],
+        "misc": [
+            {
+                "SKILL_NAME": "NPM",
+                "LOGO": "npm",
+                "COLOR": "CB3837"
+            },
+            {
+                "SKILL_NAME": "MeteorJS",
+                "LOGO": "meteor",
+                "COLOR": "DE4F4F"
+            },
+            {
+                "SKILL_NAME": "Github Actions",
+                "LOGO": "githubactions",
+                "COLOR": "2088FF"
+            },
+            {
+                "SKILL_NAME": "Visual Studio Code",
+                "LOGO": "visualstudiocode",
+                "COLOR": "007ACC"
+            }
+        ]
+    }
+}
