@@ -1,0 +1,160 @@
+{
+    "personal_details": {
+        "name": "Ankit",
+        "native_name": "अंकित",
+        "native_country_name": "भारत",
+        "current": {
+            "country": "India",
+            "state": "Uttar Pradesh",
+            "city": "Pryagraj"
+        },
+        "from": {
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "social_links": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/my.name.is.ankit.Kumar/",
+                "color": "1877F2"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/my.name.is.ankit/",
+                "color": "E4405F"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/mynameisankit/",
+                "color": "0A66C2"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/bizzare_kumar",
+                "color": "1DA1F2"
+            }
+        ]
+    },
+    "date_schema": {
+        "weekday": "long",
+        "month": "long",
+        "day": "numeric",
+        "hour": "numeric",
+        "minute": "numeric",
+        "timeZoneName": "short",
+        "timeZone": "Asia/India"
+    },
+    "skills": {
+        "proficient": [
+            {
+                "name": "ReactJs",
+                "logo": "react",
+                "color": "45b8d8"
+            },
+            {
+                "name": "NextJs",
+                "logo": "nextdotjs"
+            },
+            {
+                "name": "Webpack",
+                "logo": "webpack",
+                "color": "8DD6F9"
+            },
+            {
+                "name": "NodeJs",
+                "logo": "nodedotjs",
+                "color": "43853d"
+            },
+            {
+                "name": "JavaScript",
+                "logo": "javascript",
+                "color": "F7DF1E"
+            },
+            {
+                "name": "HTML",
+                "logo": "html5",
+                "color": "E34F26"
+            },
+            {
+                "name": "CSS",
+                "logo": "css3",
+                "color": "1572B6"
+            },
+            {
+                "name": "C",
+                "logo": "c",
+                "color": "A8B9CC"
+            },
+            {
+                "name": "C++",
+                "logo": "cplusplus",
+                "color": "00599C"
+            },
+            {
+                "name": "MySQL",
+                "logo": "mysql",
+                "color": "4479A1"
+            },
+            {
+                "name": "MaterialUI",
+                "logo": "materialui",
+                "color": "0081CB"
+            },
+            {
+                "name": "React Bootstrap",
+                "logo": "bootstrap",
+                "color": "7952B3"
+            },
+            {
+                "name": "Git",
+                "logo": "git",
+                "color": "F05032"
+            }
+        ],
+        "elementary": [
+            {
+                "name": "MongoDB",
+                "logo": "mongodb",
+                "color": "13aa52"
+            },
+            {
+                "name": "Python",
+                "logo": "python",
+                "color": "3776AB"
+            },
+            {
+                "name": "Java",
+                "logo": "java",
+                "color": "007396"
+            },
+            {
+                "name": "Bash",
+                "logo": "gnubash",
+                "color": "4EAA25"
+            },
+            {
+                "name": "Styled Components",
+                "logo": "styled-components",
+                "color": "db7092"
+            }
+        ],
+        "misc": [
+            {
+                "name": "NPM",
+                "logo": "npm",
+                "color": "CB3837"
+            },
+            {
+                "name": "MeteorJS",
+                "logo": "meteor",
+                "color": "DE4F4F"
+            },
+            {
+                "name": "Github Actions",
+                "logo": "githubactions",
+                "color": "2088FF"
+            }
+        ]
+    }
+}
