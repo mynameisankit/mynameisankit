@@ -55,9 +55,9 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 </p>
 {{/with}}
 
-## Some Images of the city I currently live in ##
+## A Glance of {{personal_details.current.city}} ##
 <p>
   {{#each current_city_images}}
-  <img alt="City Image" src={{this}} /> 
+  <img width="200" alt="City Image" src={{this}} /> 
   {{/each}}
 </p>
