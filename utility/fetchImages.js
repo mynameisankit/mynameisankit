@@ -17,7 +17,7 @@ async function fetchImages(query) {
     let imageHrefs = [];
     try {
         imageHrefs = await page.evaluate((sel) => {
-            let imagesList = Array.from(document.querySelectorAll());
+            const imagesList = Array.from(document.querySelectorAll(sel));
 
             const images = [];
             for (i = 0; i < 6; i++) {
