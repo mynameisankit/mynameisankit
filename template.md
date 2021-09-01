@@ -39,7 +39,7 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 {{/with}}
 
 ## A Glance of {{personal_details.current.city}} ##
-<p>
+<p align="center">
   {{#each current_city_images}}
   <img width="250" alt="City Image" src={{this}} /> 
   {{/each}}
@@ -58,11 +58,5 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 <p align="center">
   <img alt="Stars" src="https://shields.io/badge/Stars-{{stars}}-0A66C2?style=for-the-badge"/> 
   <img alt="Forks" src="https://shields.io/badge/Forks-{{forks}}-0A66C2?style=for-the-badge"/>
-</p>
-
-<h2 align="center">Made Using</h2>
-<p align="center">
-  <img width="150" height="100" alt="handlebars" src="./content/images/handlebars.png" />
-  <img width="150" height="100" alt="puppeteer" src="./content/images/puppeteer.png" />
 </p>
 {{/with}}
