@@ -19,7 +19,7 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h5><strong><i>Elementary Proficiency</i></strong></h5>
+#### <strong><i>Elementary Proficiency</i></strong> ####
 <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
 </p>
 
-<h3>Tools</h3>
+#### Tools ####
 <p>
     <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="MeteorJS" src="https://img.shields.io/badge/-MeteorJS-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white" />
@@ -57,11 +57,18 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
 <p align="center">
   This <i>README</i> file is generated <b>every 3 hours</b>
   </br>
-  Last refresh: Wednesday, 1 September, 01:19 PM
+  Last refresh: Wednesday, 1 September, 01:28 PM
   <br />
 </p>
 
 <p align="center">
   <img alt="Stars" src="https://shields.io/badge/Stars-1-0A66C2?style=for-the-badge"/> 
   <img alt="Forks" src="https://shields.io/badge/Forks-0-0A66C2?style=for-the-badge"/>
+</p>
+
+## Some Images of the city I currently live in ##
+<p>
+  <img alt="City Image" src=https://media.istockphoto.com/photos/sadhu-in-varanasi-india-picture-id696962620?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;696962620&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;Y1YlcR0P8vn4t-2MkhNOJow27Fw9XexL7CXx0cMIOu8&#x3D; /> 
+  <img alt="City Image" src=https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D; /> 
+  <img alt="City Image" src=https://media.istockphoto.com/photos/hindu-woman-dries-a-sari-on-the-river-side-picture-id180105039?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;180105039&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;H-QunfugD36iGmRX0m772rpn_GW50LQPH7hJtQ-d_HE&#x3D; /> 
 </p>
