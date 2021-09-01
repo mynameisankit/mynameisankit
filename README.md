@@ -57,11 +57,11 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
 <p align="center">
   This <i>README</i> file is generated <b>every 3 hours</b>
   </br>
-  Last refresh: Wednesday, 1 September, 01:07 AM
+  Last refresh: Wednesday, 1 September, 05:48 AM
   <br />
 </p>
 
 <p align="center">
-  <img alt="Stars" src="https://shields.io/badge/Stars-0-0A66C2?style=for-the-badge"/> 
+  <img alt="Stars" src="https://shields.io/badge/Stars-1-0A66C2?style=for-the-badge"/> 
   <img alt="Forks" src="https://shields.io/badge/Forks-0-0A66C2?style=for-the-badge"/>
 </p>
