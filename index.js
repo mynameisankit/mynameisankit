@@ -43,7 +43,7 @@ async function fetchImages(query) {
             let imagesList = Array.from(document.querySelectorAll(sel));
 
             const images = [];
-            for (i = 0; i < 3; i++) {
+            for (i = 0; i < 6; i++) {
                 images.push(imagesList[i].src);
             }
 

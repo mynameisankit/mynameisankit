@@ -38,17 +38,6 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 </p>
 {{/with}}
 
-------------
-
-{{#with repo_details}}
-<h3 align="center"></h3>
-<p align="center">
-  This <i>README</i> file is generated <b>every 3 hours</b>
-  </br>
-  Last refresh: {{refresh_date}}
-  <br />
-</p>
-
 <p align="center">
   <img alt="Stars" src="https://shields.io/badge/Stars-{{stars}}-0A66C2?style=for-the-badge"/> 
   <img alt="Forks" src="https://shields.io/badge/Forks-{{forks}}-0A66C2?style=for-the-badge"/>
@@ -60,4 +49,20 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
   {{#each current_city_images}}
   <img width="250" alt="City Image" src={{this}} /> 
   {{/each}}
+</p>
+
+------------
+
+{{#with repo_details}}
+<p align="center">
+  This <i>README</i> file is generated <b>every 3 hours</b>
+  </br>
+  Last refresh: {{refresh_date}}
+  <br />
+</p>
+
+<h2 align="center">Made Using</h2>
+<p align="center">
+  <img width="150" height="100" alt="handlebars" src="./content/images/handlebars.png" />
+  <img width="150" height="100" alt="puppeteer" src="./content/images/puppeteer.png" />
 </p>
