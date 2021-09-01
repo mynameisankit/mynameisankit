@@ -25,6 +25,7 @@
   "homepage": "https://github.com/mynameisankit/mynameisankit#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "colors": "^1.4.0",
     "dayjs": "^1.10.6",
     "dotenv": "^10.0.0",
     "handlebars": "^4.7.7",

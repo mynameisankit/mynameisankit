@@ -12,14 +12,14 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
   {{/each}}
 </p>
 
-<h5><strong><i>Elementary Proficiency</i></strong></h5>
+#### <strong><i>Elementary Proficiency</i></strong> ####
 <p>
   {{#each elementary}}
     <img alt="{{this.name}}" src="https://img.shields.io/badge/-{{this.name}}-{{#if (isColorGiven this.color)}}{{this.color}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.logo}}&logoColor=white" />
   {{/each}}
 </p>
 
-<h3>Tools</h3>
+#### Tools ####
 <p>
   {{#each misc}}
     <img alt="{{this.name}}" src="https://img.shields.io/badge/-{{this.name}}-{{#if (isColorGiven this.color)}}{{this.color}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.logo}}&logoColor=white" />
@@ -54,3 +54,10 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
   <img alt="Forks" src="https://shields.io/badge/Forks-{{forks}}-0A66C2?style=for-the-badge"/>
 </p>
 {{/with}}
+
+## Some Images of the city I currently live in ##
+<p>
+  {{#each current_city_images}}
+  <img alt="City Image" src={{this}} /> 
+  {{#each current_city_images}}
+</p>
