@@ -59,5 +59,5 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 <p>
   {{#each current_city_images}}
   <img alt="City Image" src={{this}} /> 
-  {{#each current_city_images}}
+  {{/each}}
 </p>
