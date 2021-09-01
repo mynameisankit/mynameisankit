@@ -7,7 +7,9 @@ const timezone = require('dayjs/plugin/timezone');
 const dayjs = require('dayjs');
 const axios = require('axios');
 const colors = require('colors/safe');
-const puppeteer = require('puppeteer');
+
+//custom modules
+const fetchImages = require('./utility/fetchImages');
 
 dayjs.extend(utc);
 dayjs.extend(timezone);
@@ -24,45 +26,6 @@ let template = Handlebars.compile(RAW_template);
 Handlebars.registerHelper("isColorGiven", function (color) {
     return color === undefined ? false : true;
 });
-
-async function fetchImages(query) {
-    const startTime = dayjs();
-    console.log(colors.blue.bold("Fetching Images....\n"));
-    const TIMER = setInterval(() => {
-        console.log(colors.green(`Time Elapsed : ${dayjs().diff(startTime, 'second')} seconds`));
-    }, 1000);
-
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    await page.goto(`https://unsplash.com/s/photos/${query}`);
-    const IMAGE_SELECTOR = '.oCCRx';
-
-    let imageHrefs = [];
-    try {
-        imageHrefs = await page.evaluate((sel) => {
-            let imagesList = Array.from(document.querySelectorAll(sel));
-
-            const images = [];
-            for (i = 0; i < 6; i++) {
-                images.push(imagesList[i].src);
-            }
-
-            return images;
-        }, IMAGE_SELECTOR);
-
-        console.log(colors.green.bold('\nImages Fetched'));
-    }
-    catch (err) {
-        console.log(colors.red.bold('\nCannot Fetch Images'));
-        console.log("Program exited with the error : ", err);
-    }
-    finally {
-        browser.close();
-        clearInterval(TIMER);
-        return imageHrefs;
-    }
-}
-
 
 async function generateReadMe(RAW_DATA) {
     let data = JSON.parse(RAW_DATA);
