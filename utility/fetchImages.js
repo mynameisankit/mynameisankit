@@ -12,12 +12,12 @@ async function fetchImages(query) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto(`https://www.google.co.in/search?q=${query}+unsplash&tbm=isch`);
-    const IMAGE_SELECTOR = '.oCCRx';
+    const IMAGE_SELECTOR = '.rg_i.Q4LuWd';
 
     let imageHrefs = [];
     try {
         imageHrefs = await page.evaluate((sel) => {
-            let imagesList = Array.from(document.images);
+            let imagesList = Array.from(document.querySelectorAll());
 
             const images = [];
             for (i = 0; i < 6; i++) {
