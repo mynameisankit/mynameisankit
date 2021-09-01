@@ -58,6 +58,6 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 ## A Glance of {{personal_details.current.city}} ##
 <p>
   {{#each current_city_images}}
-  <img width="200" alt="City Image" src={{this}} /> 
+  <img width="250" alt="City Image" src={{this}} /> 
   {{/each}}
 </p>

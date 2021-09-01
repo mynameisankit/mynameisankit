@@ -68,7 +68,7 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
 
 ## A Glance of Pryagraj ##
 <p>
-  <img width="200" alt="City Image" src=https://media.istockphoto.com/photos/sadhu-in-varanasi-india-picture-id696962620?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;696962620&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;Y1YlcR0P8vn4t-2MkhNOJow27Fw9XexL7CXx0cMIOu8&#x3D; /> 
-  <img width="200" alt="City Image" src=https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D; /> 
-  <img width="200" alt="City Image" src=https://media.istockphoto.com/photos/hindu-woman-dries-a-sari-on-the-river-side-picture-id180105039?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;180105039&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;H-QunfugD36iGmRX0m772rpn_GW50LQPH7hJtQ-d_HE&#x3D; /> 
+  <img width="250" alt="City Image" src=https://media.istockphoto.com/photos/sadhu-in-varanasi-india-picture-id696962620?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;696962620&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;Y1YlcR0P8vn4t-2MkhNOJow27Fw9XexL7CXx0cMIOu8&#x3D; /> 
+  <img width="250" alt="City Image" src=https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D; /> 
+  <img width="250" alt="City Image" src=https://media.istockphoto.com/photos/hindu-woman-dries-a-sari-on-the-river-side-picture-id180105039?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;180105039&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;H-QunfugD36iGmRX0m772rpn_GW50LQPH7hJtQ-d_HE&#x3D; /> 
 </p>
