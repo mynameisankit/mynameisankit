@@ -33,6 +33,11 @@
                 "name": "twitter",
                 "url": "https://twitter.com/bizzare_kumar",
                 "color": "1DA1F2"
+            },
+            {
+                "name": "gmail",
+                "url": "mailto:kumar.ankit.862001@gmail.com",
+                "color": "EA4335"
             }
         ]
     },

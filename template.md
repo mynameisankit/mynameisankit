@@ -1,7 +1,11 @@
 # Hello (नमस्ते) #
 
+<p align="center">
+  <img src="./content/images/namaste.jpg" />
+</p>
+
 {{#with personal_details}}
-My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}} currently living in {{current.city}}, {{current.state}}, {{current.country}}
+My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}} currently living in {{current.city}}, {{current.state}}, {{current.country}}. I am a third-year undergraduate at the [Indian Institute of Information Technplogy Guwahati (IIITG)](http://iiitg.ac.in/). I love solving problems and developing things. Please do checkout my Github Repositories to know more about what I do.
 {{/with}}
 
 {{#with skills}}
@@ -60,3 +64,6 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
   <img alt="Forks" src="https://shields.io/badge/Forks-{{forks}}-0A66C2?style=for-the-badge"/>
 </p>
 {{/with}}
+
+### How this works? ###
+This README is generated every 6 hours by my Node.js program built using [Puppeteer.js](https://github.com/puppeteer/puppeteer) and [Handlebars.js](https://handlebarsjs.com/) and run every 6 hours by Github Actions.
