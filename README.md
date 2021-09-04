@@ -1,6 +1,10 @@
 # Hello (नमस्ते) #
 
-My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India
+<p align="center">
+  <img src="./content/images/namaste.jpg" />
+</p>
+
+My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a third-year undergraduate at the [Indian Institute of Information Technplogy Guwahati (IIITG)](http://iiitg.ac.in/). I love solving problems and developing things. Please do checkout my Github Repositories to know more about what I do.
 
 ### My Skills ###
 <p>
@@ -49,6 +53,9 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
     <a href="https://twitter.com/bizzare_kumar">
       <img alt="twitter Link" src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
+    <a href="mailto:kumar.ankit.862001@gmail.com">
+      <img alt="gmail Link" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </p>
 
 ## A Glance of Pryagraj ##
@@ -66,7 +73,7 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
 <p align="center">
   This <i>README</i> file is generated <b>every 3 hours</b>
   </br>
-  Last refresh: Saturday, 4 September, 04:08 PM IST
+  Last refresh: Saturday, 4 September, 04:43 PM IST
   <br />
 </p>
 
@@ -74,3 +81,6 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
   <img alt="Stars" src="https://shields.io/badge/Stars-1-0A66C2?style=for-the-badge"/> 
   <img alt="Forks" src="https://shields.io/badge/Forks-0-0A66C2?style=for-the-badge"/>
 </p>
+
+### How this works? ###
+This README is generated every 6 hours by my Node.js program built using [Puppeteer.js](https://github.com/puppeteer/puppeteer) and [Handlebars.js](https://handlebarsjs.com/) and run every 6 hours by Github Actions.
