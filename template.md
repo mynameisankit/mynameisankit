@@ -53,7 +53,7 @@ My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}
 
 {{#with repo_details}}
 <p align="center">
-  This <i>README</i> file is generated <b>every 3 hours</b>
+  This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
   Last refresh: {{refresh_date}}
   <br />
