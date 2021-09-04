@@ -10,22 +10,38 @@ async function fetchImages(query) {
     }, 1000);
 
     const browser = await puppeteer.launch();
-    const page = await browser.newPage();
+    let page = await browser.newPage();
     await page.goto(`https://www.google.co.in/search?q=${query}+unsplash&tbm=isch`);
-    const IMAGE_SELECTOR = '.rg_i.Q4LuWd';
+    const IMAGE_SELECTOR = '.n3VNCb';
+    const IMAGE_TILE_SELECTOR = '.wXeWr.islib.nfEiy';
 
     let imageHrefs = [];
     try {
-        imageHrefs = await page.evaluate((sel) => {
-            const imagesList = Array.from(document.querySelectorAll(sel));
+        googleImageHrefs = await page.evaluate((sel) => {
+            const hrefsList = Array.from(document.querySelectorAll(sel));
 
-            const images = [];
+            const hrefs = [];
             for (i = 0; i < 6; i++) {
-                images.push(imagesList[i].src);
+                hrefsList[i].click();
+                hrefs.push(hrefsList[i].href);
             }
 
-            return images;
-        }, IMAGE_SELECTOR);
+            return hrefs;
+        }, IMAGE_TILE_SELECTOR);
+
+        await page.close();
+        for (let i in googleImageHrefs) {
+            page = await browser.newPage();
+            await page.goto(googleImageHrefs[i], { waitUntil: 'networkidle0' });
+            await page.waitForSelector('body');
+
+            const image = await page.evaluate((sel) => {
+                return document.querySelector(sel).src;
+            }, IMAGE_SELECTOR);
+
+            await page.close();
+            imageHrefs.push(image);
+        }
 
         console.log(colors.green.bold('\nImages Fetched'));
     }
