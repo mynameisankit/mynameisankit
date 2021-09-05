@@ -38,6 +38,11 @@
                 "name": "gmail",
                 "url": "mailto:kumar.ankit.862001@gmail.com",
                 "color": "EA4335"
+            },
+            {
+                "name": "leetcode",
+                "url": "https://leetcode.com/bizzareKumar/",
+                "color": "FFA116"
             }
         ]
     },
@@ -159,6 +164,11 @@
                 "name": "Github Actions",
                 "logo": "githubactions",
                 "color": "2088FF"
+            },
+            {
+                "name": "Visual Studio Code",
+                "logo": "visualstudiocode",
+                "color": "007ACC"
             }
         ]
     }

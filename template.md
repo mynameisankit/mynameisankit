@@ -8,6 +8,9 @@
 My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}} currently living in {{current.city}}, {{current.state}}, {{current.country}}. I am a third-year undergraduate at the [Indian Institute of Information Technplogy Guwahati (IIITG)](http://iiitg.ac.in/). I love solving problems and developing things. Please do checkout my Github Repositories to know more about what I do.
 {{/with}}
 
+## What I am upto these days? ##
+I am regularly practicing DSA (Data Structure and Algorithms) problems on leetcode nowadays.
+
 {{#with skills}}
 ### My Skills ###
 <p>
