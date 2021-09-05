@@ -6,6 +6,9 @@
 
 My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a third-year undergraduate at the [Indian Institute of Information Technplogy Guwahati (IIITG)](http://iiitg.ac.in/). I love solving problems and developing things. Please do checkout my Github Repositories to know more about what I do.
 
+## What I am upto these days? ##
+I am regularly practicing DSA (Data Structure and Algorithms) problems on leetcode nowadays.
+
 ### My Skills ###
 <p>
     <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -37,6 +40,7 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
     <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="MeteorJS" src="https://img.shields.io/badge/-MeteorJS-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white" />
     <img alt="Github Actions" src="https://img.shields.io/badge/-Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ### Where to find me ###
@@ -56,16 +60,19 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
     <a href="mailto:kumar.ankit.862001@gmail.com">
       <img alt="gmail Link" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href="https://leetcode.com/bizzareKumar/">
+      <img alt="leetcode Link" src="https://img.shields.io/badge/-leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    </a>
 </p>
 
 ## A Glance of Pryagraj ##
 <p align="center">
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1612981889051-27be7c2d52ec?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1511718014670-c04ae7843d47?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YWxsYWhhYmFkfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1580930981028-a1195667ac4a?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByYXlhZ3JhanxlbnwwfHwwfHw%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1601750133992-6898192548ad?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1581863314681-05f9ec569590?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1601750133992-6898192548ad?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
 ------------
@@ -73,7 +80,7 @@ My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Prya
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Sunday, 5 September, 05:57 PM IST
+  Last refresh: Sunday, 5 September, 11:32 PM IST
   <br />
 </p>
 
