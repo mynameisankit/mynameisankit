@@ -68,11 +68,11 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 ## A Glance of Pryagraj ##
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1612981889051-27be7c2d52ec?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8N3x8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1581863314681-05f9ec569590?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1601750133992-6898192548ad?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams-picture-id525109131?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;525109131&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;0sxU4Jhes1FALFY8GJ-GNb1V0YweEHZnNh9X7MFBv3k&#x3D;" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1511718014670-c04ae7843d47?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YWxsYWhhYmFkfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/kumbh-mela-festival-in-allahabad-uttar-pradesh-india-picture-id668989666?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;668989666&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;YlUfrNb24b1flwTrUxgw086MlGiZJ__vHDgOI-r-1Yo&#x3D;" /> 
 </p>
 
 ------------
@@ -80,7 +80,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Monday, 27 September, 05:59 PM IST
+  Last refresh: Monday, 27 September, 11:50 PM IST
   <br />
 </p>
 
