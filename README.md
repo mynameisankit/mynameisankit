@@ -22,7 +22,6 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 ### My Skills ###
 <p align="center">
     <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJs-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -83,7 +82,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 19 October, 01:34 PM IST
+  Last refresh: Tuesday, 19 October, 01:35 PM IST
   <br />
 </p>
 
