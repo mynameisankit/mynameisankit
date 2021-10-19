@@ -5,10 +5,14 @@
 </p>
 
 {{#with personal_details}}
+<p align="center">
 My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}} currently living in {{current.city}}, {{current.state}}, {{current.country}}. I am a third-year undergraduate at the [Indian Institute of Information Technology Guwahati (IIITG)](http://iiitg.ac.in/). I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+</p>
 
 ## What I am upto these days? ##
+<p align="center">
 I am regularly practicing DSA (Data Structure and Algorithms) problems on leetcode nowadays.
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=midnight-purple"></img>
@@ -19,7 +23,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 
 {{#with skills}}
 ### My Skills ###
-<p>
+<p align="center">
   {{#each proficient}}
     <img alt="{{this.name}}" src="https://img.shields.io/badge/-{{this.name}}-{{#if (isColorGiven this.color)}}{{this.color}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.logo}}&logoColor=white" />
   {{/each}}
@@ -34,7 +38,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 
 {{#with personal_details}}
 ### Where to find me ###
-<p>
+<p align="center">
   {{#each social_links}}
     <a href="{{this.url}}">
       <img alt="{{this.name}} Link" src="https://img.shields.io/badge/-{{this.name}}-{{#if (isColorGiven this.color)}}{{this.color}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.name}}&logoColor=white" />

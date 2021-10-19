@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const dayjs = require('dayjs');
 const colors = require('colors/safe');
 
-async function fetchImages(query, count = 6) {
+async function fetchImages(query, count) {
     const startTime = dayjs();
     console.log(colors.blue.bold("Fetching Images....\n"));
     const TIMER = setInterval(() => {
@@ -17,17 +17,20 @@ async function fetchImages(query, count = 6) {
 
     let imageHrefs = [];
     try {
-        googleImageHrefs = await page.evaluate((sel) => {
-            const hrefsList = Array.from(document.querySelectorAll(sel));
+        googleImageHrefs = await page.evaluate((config) => {
+            const hrefsList = Array.from(document.querySelectorAll(config.sel));
 
             const hrefs = [];
-            for (i = 0; i < count; i++) {
+            for (i = 0; i < config.count; i++) {
                 hrefsList[i].click();
                 hrefs.push(hrefsList[i].href);
             }
 
             return hrefs;
-        }, IMAGE_TILE_SELECTOR);
+        }, {
+            sel: IMAGE_TILE_SELECTOR,
+            count
+        });
 
         await page.close();
         for (let i in googleImageHrefs) {
