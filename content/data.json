@@ -3,6 +3,7 @@
         "name": "Ankit",
         "native_name": "अंकित",
         "native_country_name": "भारत",
+        "username": "mynameisankit",
         "current": {
             "country": "India",
             "state": "Uttar Pradesh",
@@ -63,6 +64,11 @@
                 "color": "45b8d8"
             },
             {
+                "name": "Python",
+                "logo": "python",
+                "color": "3776AB"
+            },
+            {
                 "name": "NextJs",
                 "logo": "nextdotjs"
             },
@@ -120,6 +126,21 @@
                 "name": "Git",
                 "logo": "git",
                 "color": "F05032"
+            },
+            {
+                "name": "AWS",
+                "logo": "amazonaws",
+                "color": "232F3E"
+            },
+            {
+                "name": "NumPy",
+                "logo": "numpy",
+                "color": "013243"
+            },
+            {
+                "name": "Pandas",
+                "logo": "pandas",
+                "color": "150458"
             }
         ],
         "elementary": [

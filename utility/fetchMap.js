@@ -1,8 +1,7 @@
 const puppeteer = require('puppeteer');
-const dayjs = require('dayjs');
 const colors = require('colors/safe');
 
-async function fetchImages(query, count = 6) {
+async function fetchImages(query) {
     const startTime = dayjs();
     console.log(colors.blue.bold("Fetching Images....\n"));
     const TIMER = setInterval(() => {
@@ -21,7 +20,7 @@ async function fetchImages(query, count = 6) {
             const hrefsList = Array.from(document.querySelectorAll(sel));
 
             const hrefs = [];
-            for (i = 0; i < count; i++) {
+            for (i = 0; i < 6; i++) {
                 hrefsList[i].click();
                 hrefs.push(hrefsList[i].href);
             }

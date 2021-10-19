@@ -6,10 +6,16 @@
 
 {{#with personal_details}}
 My Name Is {{name}} and I am from {{from.city}}, {{from.state}}, {{from.country}} currently living in {{current.city}}, {{current.state}}, {{current.country}}. I am a third-year undergraduate at the [Indian Institute of Information Technology Guwahati (IIITG)](http://iiitg.ac.in/). I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
-{{/with}}
 
 ## What I am upto these days? ##
 I am regularly practicing DSA (Data Structure and Algorithms) problems on leetcode nowadays.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=midnight-purple"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username={{username}}&show_icons=true&theme=cobalt"></img>
+</p>
+
+{{/with}}
 
 {{#with skills}}
 ### My Skills ###
@@ -17,20 +23,12 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
   {{#each proficient}}
     <img alt="{{this.name}}" src="https://img.shields.io/badge/-{{this.name}}-{{#if (isColorGiven this.color)}}{{this.color}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.logo}}&logoColor=white" />
   {{/each}}
-</p>
-
-#### <strong><i>Elementary Proficiency</i></strong> ####
-<p>
   {{#each elementary}}
     <img alt="{{this.name}}" src="https://img.shields.io/badge/-{{this.name}}-{{#if (isColorGiven this.color)}}{{this.color}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.logo}}&logoColor=white" />
   {{/each}}
-</p>
-
-#### Tools ####
-<p>
   {{#each misc}}
     <img alt="{{this.name}}" src="https://img.shields.io/badge/-{{this.name}}-{{#if (isColorGiven this.color)}}{{this.color}}{{else}}000000{{/if}}?style=for-the-badge&logo={{this.logo}}&logoColor=white" />
-  {{/each}}
+  {{/each}}  
 </p>
 {{/with}}
 

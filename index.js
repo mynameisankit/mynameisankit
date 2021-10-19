@@ -15,7 +15,7 @@ dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.tz.setDefault("Asia/Calcutta");
 
-const MAIN_TEMPLATE_PATH = path.join(__dirname, 'template.md');
+const MAIN_TEMPLATE_PATH = path.join(__dirname, 'template.hbs');
 const RAW_DATA_PATH = path.join(__dirname, 'content', 'data.json');
 
 const RAW_template = fs.readFileSync(MAIN_TEMPLATE_PATH, 'utf-8');
@@ -40,7 +40,7 @@ async function generateReadMe(RAW_DATA) {
         forks: REPO_DETAILS['forks'],
     }
 
-    data.current_city_images = await fetchImages(data.personal_details.current.city);
+    data.current_city_images = await fetchImages(data.personal_details.current.city, 3);
 
     const converted = template(data);
     fs.writeFileSync('README.md', converted);
