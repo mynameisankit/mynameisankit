@@ -72,9 +72,6 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 
 ## A Glance of Pryagraj ##
 <p align="center">
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1612981889051-27be7c2d52ec?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1624124231037-e2149a973c24?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWxsYWhhYmFkfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
 ------------
@@ -82,7 +79,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 16 November, 05:58 PM IST
+  Last refresh: Tuesday, 16 November, 11:49 PM IST
   <br />
 </p>
 
