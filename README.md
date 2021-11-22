@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a third-year undergraduate at the [Indian Institute of Information Technology Guwahati (IIITG)](http://iiitg.ac.in/). I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
 </p>
 
 ## What I am upto these days? ##
@@ -72,9 +72,9 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 
 ## A Glance of Pryagraj ##
 <p align="center">
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1612981889051-27be7c2d52ec?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJheWFncmFqfGVufDB8fDB8fA%3D%3D&amp;ixlib&#x3D;rb-1.2.1&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams-picture-id525109131?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;525109131&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;0sxU4Jhes1FALFY8GJ-GNb1V0YweEHZnNh9X7MFBv3k&#x3D;" /> 
 </p>
 
 ------------
@@ -82,7 +82,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Monday, 22 November, 11:51 PM IST
+  Last refresh: Tuesday, 23 November, 12:56 AM IST
   <br />
 </p>
 
