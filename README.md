@@ -4,9 +4,18 @@
   <img src="./content/images/namaste.jpg" />
 </p>
 
-<p align="center">
-My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pryagraj, Uttar Pradesh, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+      </p>
+    </td>
+    <td>
+      <img width="600" height="250" src="./content/images/my_pic.jpg" />
+    </td>
+  </tr>
+</table>
 
 ## What I am upto these days? ##
 <p align="center">
@@ -82,7 +91,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 7 December, 11:52 AM IST
+  Last refresh: Tuesday, 7 December, 04:00 PM IST
   <br />
 </p>
 
