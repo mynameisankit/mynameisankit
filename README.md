@@ -91,7 +91,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Thursday, 9 December, 11:52 AM IST
+  Last refresh: Thursday, 9 December, 06:00 PM IST
   <br />
 </p>
 
