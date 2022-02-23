@@ -83,7 +83,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1624124231037-e2149a973c24?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWxsYWhhYmFkfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/all-saints-cathedral-patthar-girja-in-prayagraj-india-picture-id1369774927?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1369774927&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;jm9GgQtA9Ttd4llQ1MIfyU63LftmGBE8KgnSJic41DQ&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams-picture-id525109131?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;525109131&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;0sxU4Jhes1FALFY8GJ-GNb1V0YweEHZnNh9X7MFBv3k&#x3D;" /> 
 </p>
 
 ------------
@@ -91,7 +91,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 22 February, 11:52 PM IST
+  Last refresh: Wednesday, 23 February, 06:42 AM IST
   <br />
 </p>
 
