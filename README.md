@@ -12,14 +12,14 @@
       </p>
     </td>
     <td>
-      <img width="600" height="250" src="./content/images/my_pic.jpg" />
+      <img width="850" height="250" src="./content/images/my_pic.jpg" />
     </td>
   </tr>
 </table>
 
 ## What I am upto these days? ##
 <p align="center">
-I am regularly practicing DSA (Data Structure and Algorithms) problems on leetcode nowadays.
+Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ I am regularly practicing DSA (Data Structure and Algorithms) problems on leetco
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Wednesday, 23 March, 11:53 AM IST
+  Last refresh: Wednesday, 23 March, 03:15 PM IST
   <br />
 </p>
 
