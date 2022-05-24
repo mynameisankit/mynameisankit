@@ -83,7 +83,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D;" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/all-saints-cathedral-patthar-girja-in-prayagraj-india-picture-id1369774863?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1369774863&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;s3xB3QseWR-DxgI_aJW1QwIYQ5G6_AFNmx7S2qWA7z8&#x3D;" /> 
-  <img width="250" height="250" alt="City Image" src="https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1612981889051-27be7c2d52ec" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/prayagraj-fort-picture-id1356989238?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1356989238&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;Hd_mxrICjzUPuoRBKsamRIZ1vs6Nkoc6saotmT2Quv0&#x3D;" /> 
 </p>
 
 ------------
@@ -91,7 +91,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 24 May, 11:55 AM IST
+  Last refresh: Tuesday, 24 May, 06:10 PM IST
   <br />
 </p>
 
