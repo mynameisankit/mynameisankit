@@ -81,8 +81,8 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 
 ## A Glance of Pryagraj ##
 <p align="center">
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/big-wooden-boats-in-water-with-cloudy-sky-and-sunbeams-picture-id525109131?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;525109131&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;0sxU4Jhes1FALFY8GJ-GNb1V0YweEHZnNh9X7MFBv3k&#x3D;" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D;" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/all-saints-cathedral-patthar-girja-in-prayagraj-india-picture-id1369774863?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1369774863&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;s3xB3QseWR-DxgI_aJW1QwIYQ5G6_AFNmx7S2qWA7z8&#x3D;" /> 
   <img width="250" height="250" alt="City Image" src="https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1612981889051-27be7c2d52ec" /> 
 </p>
 
@@ -91,7 +91,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Thursday, 26 May, 06:08 PM IST
+  Last refresh: Thursday, 26 May, 11:56 PM IST
   <br />
 </p>
 
