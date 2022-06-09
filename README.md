@@ -83,7 +83,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/historical-monument-in-allahabad-uttar-pradesh-india-picture-id471497249?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;471497249&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;xD7bd7GzGfKH4SJGdK1c19WhaHaB4_9fCH5kUzWe2I8&#x3D;" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1612981889051-27be7c2d52ec?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHByYXlhZ3JhanxlbnwwfHwwfHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1585484173186-5f2df1a5ef34?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
 ------------
@@ -91,7 +91,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Wednesday, 8 June, 11:54 PM IST
+  Last refresh: Thursday, 9 June, 07:14 AM IST
   <br />
 </p>
 
