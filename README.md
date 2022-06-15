@@ -81,8 +81,8 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 
 ## A Glance of Pune ##
 <p align="center">
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGNpdHl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/growing-asian-cities-night-view-of-pune-city-in-india-during-diwali-picture-id1184398225?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1184398225&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;pn7tyg6L6x-snywhOlo0cdoXUt1y-AavRWW-_Zoh0S8&#x3D;" /> 
 </p>
 
@@ -91,7 +91,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Wednesday, 15 June, 10:26 PM IST
+  Last refresh: Wednesday, 15 June, 10:27 PM IST
   <br />
 </p>
 
