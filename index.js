@@ -1,4 +1,3 @@
-//node_modules
 const Handlebars = require("handlebars");
 const fs = require('fs');
 const path = require('path');
@@ -8,7 +7,6 @@ const dayjs = require('dayjs');
 const axios = require('axios');
 const colors = require('colors/safe');
 
-//custom modules
 const fetchImages = require('./utility/fetchImages');
 
 dayjs.extend(utc);

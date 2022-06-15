@@ -9,7 +9,7 @@ async function fetchImages(query, count) {
         console.log(colors.green(`Time Elapsed : ${dayjs().diff(startTime, 'second')} seconds`));
     }, 1000);
 
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch();
     let page = await browser.newPage();
     await page.goto(`https://www.google.co.in/search?q=${query}+unsplash&tbm=isch`);
     const IMAGE_SELECTOR = '.n3VNCb';
