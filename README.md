@@ -82,8 +82,6 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 ## A Glance of Pune ##
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/aerial-cityscape-with-buildings-pune-maharashtra-india-picture-id1150042983?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1150042983&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;vGczt2PUYEDYn5kGZVdKBM0cH1OR76kqKfkX58_ucos&#x3D;" /> 
 </p>
 
 ------------
@@ -91,7 +89,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Wednesday, 10 August, 07:15 AM IST
+  Last refresh: Wednesday, 10 August, 11:56 AM IST
   <br />
 </p>
 
