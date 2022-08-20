@@ -86,12 +86,10 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1594803205835-d121cb46e518?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3V3YWhhdGl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
-------------
-
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Saturday, 20 August, 03:11 PM IST
+  Last refresh: Saturday, 20 August, 03:12 PM IST
   <br />
 </p>
 
