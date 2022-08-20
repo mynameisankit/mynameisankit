@@ -22,14 +22,18 @@ const RAW_DATA = fs.readFileSync(RAW_DATA_PATH, 'utf8');
 let template = Handlebars.compile(RAW_template);
 
 Handlebars.registerHelper("isColorGiven", function (color) {
-    return color === undefined ? false : true;
+    return color !== undefined;
+});
+
+Handlebars.registerHelper("isDifferentCity", (from, current) => {
+    return from.state !== current.state || from.city !== current.city;
 });
 
 async function generateReadMe(RAW_DATA) {
     let data = JSON.parse(RAW_DATA);
-   
+
     const REPO_DETAILS = (await axios.get("https://api.github.com/repos/mynameisankit/mynameisankit")).data;
-    
+
     const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
     const time = dayjs().tz("Asia/Calcutta");
     data.repo_details = {

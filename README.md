@@ -8,7 +8,7 @@
   <tr>
     <td>
       <p align="center">
-        My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Pune, Maharashtra, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+        My Name Is Ankit and I am from Pune, Maharashtra, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
       </p>
     </td>
     <td>
@@ -83,7 +83,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGNpdHl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/growing-asian-cities-night-view-of-pune-city-in-india-during-diwali-picture-id1184398225?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1184398225&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;pn7tyg6L6x-snywhOlo0cdoXUt1y-AavRWW-_Zoh0S8&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1559897135-0ee247ae807b?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
 ------------
@@ -91,7 +91,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Wednesday, 15 June, 10:26 PM IST
+  Last refresh: Saturday, 20 August, 03:06 PM IST
   <br />
 </p>
 
