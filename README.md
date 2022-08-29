@@ -82,14 +82,14 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 ## A Glance of Guwahati ##
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1610552429372-389c7e2a6b16?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3V3YWhhdGl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1611336814186-914161b9bdb6?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3V3YWhhdGklMkMlMjBhc3NhbXxlbnwwfHwwfHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1594803205835-d121cb46e518?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3V3YWhhdGl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/-picture-id1332357477?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1332357477&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;J4LLXDJtL0ZlS3ERxOBB5en5pP3aEa2OuD4H04NNyzs&#x3D;" /> 
 </p>
 
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Sunday, 28 August, 11:54 PM IST
+  Last refresh: Monday, 29 August, 07:48 AM IST
   <br />
 </p>
 
