@@ -8,7 +8,7 @@
   <tr>
     <td>
       <p align="center">
-        My Name Is Ankit and I am from Pune, Maharashtra, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+        My Name Is Ankit and I am from Pune, Maharashtra, India. I am a fourth-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
       </p>
     </td>
     <td>
@@ -89,7 +89,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Saturday, 22 October, 11:58 PM IST
+  Last refresh: Sunday, 23 October, 12:25 AM IST
   <br />
 </p>
 
