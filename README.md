@@ -8,7 +8,7 @@
   <tr>
     <td>
       <p align="center">
-        My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Guwahati, Assam, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+        My Name Is Ankit and I am from Pune, Maharashtra, India. I am a third-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
       </p>
     </td>
     <td>
@@ -79,17 +79,17 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
     </a>
 </p>
 
-## A Glance of Guwahati ##
+## A Glance of Pune ##
 <p align="center">
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1610552429372-389c7e2a6b16?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3V3YWhhdGl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1611336814186-914161b9bdb6?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3V3YWhhdGl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1594803205835-d121cb46e518?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3V3YWhhdGl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-1.2.1&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/shree-swaminarayan-temple-at-night-ambe-gaon-pune-picture-id1257407307?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1257407307&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;3VZStH0e_n-OjSciFsZbIBmFi6yGkeSnmzyq_Ohg12w&#x3D;" /> 
 </p>
 
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 11 October, 12:17 PM IST
+  Last refresh: Saturday, 22 October, 11:58 PM IST
   <br />
 </p>
 
