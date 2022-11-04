@@ -82,14 +82,14 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 ## A Glance of Pune ##
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/shree-swaminarayan-temple-at-night-ambe-gaon-pune-picture-id1257407307?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1257407307&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;3VZStH0e_n-OjSciFsZbIBmFi6yGkeSnmzyq_Ohg12w&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/photos/lighted-image-of-shree-swaminarayan-temple-with-monsoon-clouds-ambe-picture-id1257407183?b&#x3D;1&amp;k&#x3D;20&amp;m&#x3D;1257407183&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;h&#x3D;8zpSWlPJjgogsWwsr8tXxfOBgwrvRT5Pm7DQF3CtWYw&#x3D;" /> 
 </p>
 
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Friday, 4 November, 11:58 AM IST
+  Last refresh: Friday, 4 November, 06:13 PM IST
   <br />
 </p>
 
