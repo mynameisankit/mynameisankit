@@ -82,14 +82,14 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 ## A Glance of Pune ##
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGluZGlhfGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1388924268/photo/cityscape-of-pune-city-from-bopdev-ghat-pune-maharashtra-india.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;VE4piqf6H4l8Q_ywxSKT-3zcrkMrz2MOU4Ns8fhCYJQ&#x3D;" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGNpdHl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1388924268/photo/cityscape-of-pune-city-from-bopdev-ghat-pune-maharashtra-india.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;VE4piqf6H4l8Q_ywxSKT-3zcrkMrz2MOU4Ns8fhCYJQ&#x3D;" /> 
 </p>
 
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Saturday, 31 December, 11:48 PM IST
+  Last refresh: Sunday, 1 January, 07:09 AM IST
   <br />
 </p>
 
