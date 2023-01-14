@@ -83,13 +83,13 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHVuZXxlbnwwfHwwfHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
   <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGNpdHl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1388924268/photo/cityscape-of-pune-city-from-bopdev-ghat-pune-maharashtra-india.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;VE4piqf6H4l8Q_ywxSKT-3zcrkMrz2MOU4Ns8fhCYJQ&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1257407307/photo/shree-swaminarayan-temple-at-night-ambe-gaon-pune.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;tMIcwEldBAvokYyuHfkumTnQQsPTDghlSyi3e6NOShQ&#x3D;" /> 
 </p>
 
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Saturday, 14 January, 11:49 AM IST
+  Last refresh: Saturday, 14 January, 05:58 PM IST
   <br />
 </p>
 
