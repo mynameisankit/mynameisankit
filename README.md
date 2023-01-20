@@ -8,7 +8,7 @@
   <tr>
     <td>
       <p align="center">
-        My Name Is Ankit and I am from Pune, Maharashtra, India. I am a fourth-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
+        My Name Is Ankit and I am from Pune, Maharashtra, India currently living in Bengaluru, Karnataka, India. I am a fourth-year undergraduate at the <a href="http://iiitg.ac.in/">Indian Institute of Information Technology Guwahati (IIITG)</a>. I love solving problems and developing things. Do checkout my Github Repositories to know more about what I do.
       </p>
     </td>
     <td>
@@ -79,17 +79,17 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
     </a>
 </p>
 
-## A Glance of Pune ##
+## A Glance of Bengaluru ##
 <p align="center">
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1614716194506-ef3694ae131a?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHVuZXxlbnwwfHwwfHw%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1553064483-f10fe837615f?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHVuZSUyMGNpdHl8ZW58MHx8MHx8&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
-  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1257407307/photo/shree-swaminarayan-temple-at-night-ambe-gaon-pune.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;tMIcwEldBAvokYyuHfkumTnQQsPTDghlSyi3e6NOShQ&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1382384282/photo/bangalore-or-bengaluru.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;qxO3Yl7LBs5jewoI5eAWsLrVtEw0QyH4RdKwyZrALCg&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1382384512/photo/bangalore-or-bengaluru.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;QtoCkdhGSi4PS6UIY7dmFVdgLnxyschwmDHcuWbGwxE&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://images.unsplash.com/photo-1588416936097-41850ab3d86d?ixlib&#x3D;rb-4.0.3&amp;ixid&#x3D;MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVuZ2FsdXJ1fGVufDB8fDB8fA%3D%3D&amp;w&#x3D;1000&amp;q&#x3D;80" /> 
 </p>
 
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Friday, 20 January, 11:51 AM IST
+  Last refresh: Friday, 20 January, 04:41 PM IST
   <br />
 </p>
 
