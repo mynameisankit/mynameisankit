@@ -89,7 +89,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Thursday, 23 March, 11:50 PM IST
+  Last refresh: Friday, 24 March, 06:47 AM IST
   <br />
 </p>
 
