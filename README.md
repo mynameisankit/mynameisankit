@@ -81,12 +81,15 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 
 ## A Glance of Bengaluru ##
 <p align="center">
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1382384282/photo/bangalore-or-bengaluru.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;qxO3Yl7LBs5jewoI5eAWsLrVtEw0QyH4RdKwyZrALCg&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/1382384512/photo/bangalore-or-bengaluru.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;QtoCkdhGSi4PS6UIY7dmFVdgLnxyschwmDHcuWbGwxE&#x3D;" /> 
+  <img width="250" height="250" alt="City Image" src="https://media.istockphoto.com/id/519406045/photo/bangalore-skyline-india.jpg?b&#x3D;1&amp;s&#x3D;170667a&amp;w&#x3D;0&amp;k&#x3D;20&amp;c&#x3D;hJL5CjKW2TIECR_D_Kyf1XURn7RokoTCBQi3AByf0PQ&#x3D;" /> 
 </p>
 
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Tuesday, 28 March, 11:50 PM IST
+  Last refresh: Wednesday, 29 March, 06:55 AM IST
   <br />
 </p>
 
