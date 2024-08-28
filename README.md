@@ -12,7 +12,7 @@
       </p>
     </td>
     <td>
-      <img width="850" height="250" src="./src/content/images/my_pic.jpg" />
+      <img width="1400" height="250" src="./src/content/images/my_pic.jpg" />
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ Learning about Operating Systems, Kernels and DBMS (Mostly Internals).
 <p align="center">
   This <i>README</i> file is generated <b>every 6 hours</b>
   </br>
-  Last refresh: Wednesday, 28 August, 09:48 PM IST
+  Last refresh: Wednesday, 28 August, 09:51 PM IST
   <br />
 </p>
 
